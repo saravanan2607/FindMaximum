@@ -67,7 +67,8 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-![Output](abc.jpg)
+![Exp-1a CR Swapping of two variables_ Attempt review - Google Chrome 15-06-2023 09_34_46 (2)](https://github.com/saravanan2607/FindMaximum/assets/121395849/c94df31d-da90-4cc6-b59c-a2a05708cfad)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
